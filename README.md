@@ -1,2 +1,2 @@
 # Calculadora-de-Gorjeta
-Este um projecto para Calcular Gorjeta
+Este é um projecto para Calcular Gorjeta
